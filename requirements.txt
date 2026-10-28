@@ -4,3 +4,8 @@ numpy
 scikit-learn
 xgboost
 joblib
+streamlit
+pandas
+numpy
+xgboost==3.4.1
+plotly
