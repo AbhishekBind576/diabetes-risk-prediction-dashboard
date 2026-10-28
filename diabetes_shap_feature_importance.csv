@@ -1,0 +1,9 @@
+Feature,Mean_Absolute_SHAP
+Glucose,1.1555439
+BMI,0.6930007
+Age,0.45480847
+DiabetesPedigreeFunction,0.38196477
+Insulin,0.29456642
+Pregnancies,0.2035872
+BloodPressure,0.17894161
+SkinThickness,0.1093115
